@@ -34,6 +34,11 @@ class Api::V1::ReviewsController < ApplicationController
 
   private
 
+  def set_review
+    @review = Review.find(params[:id])
+  end
+
+
   def review_params
     params.require(:review).permit(:body, :movie_id, :user_id, :rating)
   end
