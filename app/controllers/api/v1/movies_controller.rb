@@ -49,6 +49,8 @@ class Api::V1::MoviesController < ApplicationController
   private
   # Methods we place in private can only be accessed by other methods on our movies controller
 
+  # In our set_movie I noticed I had @movie as @Movie, this will not work as we are calling it with a lowercase m everywhere-else
+  # Make sure to correct this typo If it is in your project
   def set_movie
     @movie = Movie.find(params[:id])
   end
