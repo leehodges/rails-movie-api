@@ -7,7 +7,7 @@ class ApplicationController < ActionController::API
     authenticate_token || render_unauthorized
   end
 
-  def authentication_token
+  def authenticate_token
     authenticate_with_http_token do |token, options|
       @current_user = User.find_by(token: token)
       @current_user
