@@ -3,6 +3,10 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d16f2dd2-829f-4c93-9b55-e65bf1d5d92d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
