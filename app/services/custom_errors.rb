@@ -1,5 +1,4 @@
 class CustomError
-
   def initialize(message = nil)
     @errors = []
     @errors << message unless message.blank?
@@ -30,8 +29,6 @@ class CustomError
   def convert(errors)
     class_type = errors.class.to_s
     messages = []
-    # Convert to a message array based on the type passed in
-    # If it's an active model's error object
     messages = errors.full_messages if class_type == 'ActiveModel::Errors'
     # If it's an array
     messages = errors if class_type == 'Array'
