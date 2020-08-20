@@ -35,6 +35,7 @@ module MovieApi
     config.api_only = true
   end
 
+  # We forgot the ? after exist
   env_file = File.join(Rails.root, 'config', 'local_env.yml')
   if File.exist?(env_file)
     YAML.load(File.open(env_file)).each do |key, value|
