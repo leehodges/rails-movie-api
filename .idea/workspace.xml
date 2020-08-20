@@ -53,6 +53,14 @@
       <workItem from="1597601193473" duration="3539000" />
       <workItem from="1597677533433" duration="19982000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Set our review">
+      <created>1597949626018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597949626019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +95,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Set our review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Set our review" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2120" y="692" key="Vcs.Push.Dialog.v2" timestamp="1597949628637">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="2120" y="692" key="Vcs.Push.Dialog.v2/0.23.3360.1867@0.23.3360.1867" timestamp="1597949628637" />
     <state x="1116" y="505" width="1129" height="881" key="find.popup" timestamp="1597945151519">
       <screen x="0" y="0" width="3360" height="1890" />
     </state>
