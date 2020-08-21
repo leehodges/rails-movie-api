@@ -30,7 +30,6 @@ class Api::V1::ReviewsController < ApplicationController
 
   def destroy
     @review.destroy
-    render json: status: :ok
 
   end
 

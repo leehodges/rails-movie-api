@@ -9,7 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d16f2dd2-829f-4c93-9b55-e65bf1d5d92d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/reviews_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/reviews_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <workItem from="1597599048712" duration="563000" />
       <workItem from="1597601193473" duration="3539000" />
       <workItem from="1597677533433" duration="19982000" />
-      <workItem from="1598022954371" duration="1196000" />
+      <workItem from="1598022954371" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="Add Set our review">
       <created>1597949626018</created>
